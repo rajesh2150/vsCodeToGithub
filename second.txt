@@ -1,3 +1,10 @@
 second file is created
+<<<<<<< HEAD
 
 this is from master with updated text
+=======
+## This is Upadated
+
+##This from Github update 
+##This from Github update and deleted first line
+>>>>>>> 3e22e10c8d4976296eb085075292c1e95f61ebff
