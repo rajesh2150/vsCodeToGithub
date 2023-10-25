@@ -1,1 +1,3 @@
 second file is created
+
+this is from master with updated text
